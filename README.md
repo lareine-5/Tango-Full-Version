@@ -237,3 +237,6 @@ This repository serves as the official landing page for Tango. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tango today!**
+
+---
+**Last updated:** 2026-09-10 16:55:26 UTC
